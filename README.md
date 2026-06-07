@@ -1,2 +1,18 @@
-# python-web-scraper
-A Python web scraping project that automates data extraction from websites using BeautifulSoup and Requests. It parses HTML content and stores structured data for analysis and reuse.
+# Web Scraping Project
+
+This project extracts data from websites using Python.
+
+## Features
+- Extracts structured data from web pages
+- Saves data into CSV format
+- Uses BeautifulSoup and Requests
+
+## Technologies Used
+- Python
+- BeautifulSoup
+- Requests
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python scraper.py
